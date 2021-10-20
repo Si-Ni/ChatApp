@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "requirejs": "^2.3.6",
+    "socket.io": "^4.2.0"
+  }
+}
